@@ -24,14 +24,14 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Policy</a>.</p>
+    <p>By creating an account you agree to our <a href="#">Terms & Policies</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You pyaare dost, Happy Learning </h1>
-   <h1> See You Again lalla </h1>
+   <h1> Thank You , Happy Learning </h1>
+   <h1> See You Again </h1>
   
 </form>
